@@ -1,0 +1,122 @@
+user_id,name,vpa,account_number,bank,is_mule,mule_role,mule_cluster
+USR_0000,Vikram Verma,vikram.verma45@sbi,IN2051802512,SBI,False,None,-1
+USR_0001,Rohan Nair,rohan.nair96@sbi,IN3342331444,SBI,False,None,-1
+USR_0002,Rhea Iyer,rhea.iyer13@sbi,IN1402418010,SBI,False,None,-1
+USR_0003,Rahul Joshi,rahul.joshi13@kotak,IN3410529190,KOTAK,True,Layer-2 Aggregator,2
+USR_0004,Ramesh Rao,ramesh.rao79@pnb,IN2801823908,PNB,False,None,-1
+USR_0005,Tanvi Chopra,tanvi.chopra10@icici,IN7110082321,ICICI,False,None,-1
+USR_0006,Varun Patel,varun.patel53@hdfc,IN1438989805,HDFC,False,None,-1
+USR_0007,Priya Verma,priya.verma54@icici,IN7887950851,ICICI,False,None,-1
+USR_0008,Deepak Sharma,deepak.sharma68@pnb,IN3303082117,PNB,False,None,-1
+USR_0009,Nikhil Iyer,nikhil.iyer80@sbi,IN1298737106,SBI,False,None,-1
+USR_0010,Suresh Shukla,suresh.shukla47@paytm,IN5231494220,PAYTM,False,None,-1
+USR_0011,Sunil Shukla,sunil.shukla22@paytm,IN6927597015,PAYTM,False,None,-1
+USR_0012,Tanvi Rao,tanvi.rao56@paytm,IN5993561321,PAYTM,False,None,-1
+USR_0013,Diya Shukla,diya.shukla44@pnb,IN9896606039,PNB,True,Layer-1 Smurf,2
+USR_0014,Vikram Patel,vikram.patel41@kotak,IN5996775663,KOTAK,True,Exit-Cashing Node,1
+USR_0015,Priya Singh,priya.singh98@pnb,IN3392080953,PNB,False,None,-1
+USR_0016,Suresh Gupta,suresh.gupta17@paytm,IN6649827836,PAYTM,False,None,-1
+USR_0017,Varun Verma,varun.verma82@hdfc,IN2351531223,HDFC,False,None,-1
+USR_0018,Vikram Mehta,vikram.mehta92@axis,IN2970753705,AXIS,False,None,-1
+USR_0019,Varun Patel,varun.patel81@hdfc,IN7609857128,HDFC,False,None,-1
+USR_0020,Manish Chopra,manish.chopra84@axis,IN7010379415,AXIS,True,Layer-1 Smurf,2
+USR_0021,Rahul Patel,rahul.patel73@kotak,IN1470939445,KOTAK,True,Layer-1 Smurf,1
+USR_0022,Vikram Patel,vikram.patel97@paytm,IN5567816720,PAYTM,False,None,-1
+USR_0023,Priya Chopra,priya.chopra77@axis,IN5047709743,AXIS,False,None,-1
+USR_0024,Suresh Nair,suresh.nair97@sbi,IN8519962896,SBI,False,None,-1
+USR_0025,Alok Rao,alok.rao24@icici,IN6555540744,ICICI,False,None,-1
+USR_0026,Aditya Mehta,aditya.mehta43@sbi,IN4272602734,SBI,False,None,-1
+USR_0027,Pooja Verma,pooja.verma90@paytm,IN3615507143,PAYTM,False,None,-1
+USR_0028,Rohan Gupta,rohan.gupta30@paytm,IN9592390865,PAYTM,False,None,-1
+USR_0029,Ananya Mehta,ananya.mehta24@sbi,IN9285415473,SBI,False,None,-1
+USR_0030,Karan Singh,karan.singh17@hdfc,IN1338258951,HDFC,False,None,-1
+USR_0031,Manish Mehta,manish.mehta18@paytm,IN1540137296,PAYTM,False,None,-1
+USR_0032,Suresh Mehta,suresh.mehta31@kotak,IN6633778586,KOTAK,True,Layer-1 Smurf,1
+USR_0033,Suresh Rao,suresh.rao66@icici,IN2939118223,ICICI,False,None,-1
+USR_0034,Rahul Shukla,rahul.shukla53@sbi,IN9680276057,SBI,False,None,-1
+USR_0035,Neha Shukla,neha.shukla38@kotak,IN1030884438,KOTAK,False,None,-1
+USR_0036,Ramesh Rao,ramesh.rao39@sbi,IN2419179580,SBI,False,None,-1
+USR_0037,Pooja Shukla,pooja.shukla95@icici,IN3084839399,ICICI,False,None,-1
+USR_0038,Neha Patel,neha.patel83@pnb,IN7769777475,PNB,False,None,-1
+USR_0039,Rahul Mehta,rahul.mehta62@paytm,IN1817804383,PAYTM,True,Layer-1 Smurf,2
+USR_0040,Kabir Rao,kabir.rao55@axis,IN7114223633,AXIS,False,None,-1
+USR_0041,Tanvi Nair,tanvi.nair96@sbi,IN3775320897,SBI,False,None,-1
+USR_0042,Aryan Iyer,aryan.iyer53@pnb,IN1469306919,PNB,False,None,-1
+USR_0043,Ishaan Shukla,ishaan.shukla67@kotak,IN5897045684,KOTAK,False,None,-1
+USR_0044,Aditya Singh,aditya.singh41@axis,IN5618742930,AXIS,False,None,-1
+USR_0045,Deepak Joshi,deepak.joshi16@sbi,IN2015242176,SBI,False,None,-1
+USR_0046,Sneha Mehta,sneha.mehta37@axis,IN9008612465,AXIS,False,None,-1
+USR_0047,Karan Sharma,karan.sharma58@hdfc,IN6971815972,HDFC,True,Layer-1 Smurf,1
+USR_0048,Nikhil Mehta,nikhil.mehta64@icici,IN3090237817,ICICI,False,None,-1
+USR_0049,Ishaan Singh,ishaan.singh17@hdfc,IN3328710672,HDFC,False,None,-1
+USR_0050,Manish Gupta,manish.gupta16@sbi,IN7803990970,SBI,False,None,-1
+USR_0051,Pooja Joshi,pooja.joshi17@hdfc,IN1798112150,HDFC,False,None,-1
+USR_0052,Kavya Verma,kavya.verma40@pnb,IN2734202799,PNB,False,None,-1
+USR_0053,Karan Chopra,karan.chopra84@hdfc,IN3553440342,HDFC,False,None,-1
+USR_0054,Kavya Verma,kavya.verma94@axis,IN7540301973,AXIS,False,None,-1
+USR_0055,Nikhil Singh,nikhil.singh95@hdfc,IN8370987661,HDFC,False,None,-1
+USR_0056,Rahul Singh,rahul.singh26@axis,IN6583444930,AXIS,False,None,-1
+USR_0057,Ananya Verma,ananya.verma68@sbi,IN1429416213,SBI,False,None,-1
+USR_0058,Neha Shukla,neha.shukla43@kotak,IN6344160868,KOTAK,False,None,-1
+USR_0059,Amit Patel,amit.patel79@axis,IN8316648259,AXIS,True,Layer-1 Smurf,1
+USR_0060,Kavya Rao,kavya.rao11@kotak,IN7676965974,KOTAK,False,None,-1
+USR_0061,Nikhil Rao,nikhil.rao27@sbi,IN2135872495,SBI,False,None,-1
+USR_0062,Karan Verma,karan.verma80@pnb,IN5962610986,PNB,False,None,-1
+USR_0063,Amit Chopra,amit.chopra53@hdfc,IN7393195616,HDFC,False,None,-1
+USR_0064,Karan Sharma,karan.sharma91@sbi,IN2188332531,SBI,False,None,-1
+USR_0065,Aarav Gupta,aarav.gupta26@paytm,IN2125089309,PAYTM,False,None,-1
+USR_0066,Manish Mehta,manish.mehta64@kotak,IN3409076656,KOTAK,False,None,-1
+USR_0067,Kabir Verma,kabir.verma29@pnb,IN3343292475,PNB,False,None,-1
+USR_0068,Rajesh Gupta,rajesh.gupta80@kotak,IN5931025271,KOTAK,False,None,-1
+USR_0069,Rohan Sharma,rohan.sharma56@icici,IN4696689457,ICICI,False,None,-1
+USR_0070,Karan Gupta,karan.gupta97@hdfc,IN5736462531,HDFC,False,None,-1
+USR_0071,Alok Joshi,alok.joshi62@paytm,IN4218981849,PAYTM,False,None,-1
+USR_0072,Nikhil Shukla,nikhil.shukla30@paytm,IN4482238042,PAYTM,False,None,-1
+USR_0073,Karan Iyer,karan.iyer32@sbi,IN9292791081,SBI,False,None,-1
+USR_0074,Deepak Rao,deepak.rao41@paytm,IN2145921803,PAYTM,True,Layer-2 Aggregator,2
+USR_0075,Deepak Nair,deepak.nair58@sbi,IN4745927824,SBI,False,None,-1
+USR_0076,Sunil Mehta,sunil.mehta35@hdfc,IN7271954644,HDFC,False,None,-1
+USR_0077,Amit Shukla,amit.shukla13@hdfc,IN3834820954,HDFC,True,Layer-2 Aggregator,1
+USR_0078,Priya Gupta,priya.gupta18@icici,IN6493800024,ICICI,False,None,-1
+USR_0079,Vikram Joshi,vikram.joshi96@axis,IN7597996327,AXIS,False,None,-1
+USR_0080,Aarav Verma,aarav.verma32@icici,IN9519284858,ICICI,False,None,-1
+USR_0081,Aryan Verma,aryan.verma65@kotak,IN8672650595,KOTAK,False,None,-1
+USR_0082,Sneha Chopra,sneha.chopra24@kotak,IN3476426797,KOTAK,False,None,-1
+USR_0083,Varun Sharma,varun.sharma65@pnb,IN9597198563,PNB,False,None,-1
+USR_0084,Nikhil Joshi,nikhil.joshi95@pnb,IN6141226746,PNB,False,None,-1
+USR_0085,Sneha Verma,sneha.verma52@pnb,IN7971399399,PNB,False,None,-1
+USR_0086,Suresh Verma,suresh.verma48@pnb,IN7473041886,PNB,False,None,-1
+USR_0087,Suresh Iyer,suresh.iyer61@icici,IN8289454630,ICICI,False,None,-1
+USR_0088,Neha Patel,neha.patel63@hdfc,IN7739255769,HDFC,False,None,-1
+USR_0089,Priya Joshi,priya.joshi10@paytm,IN6600100279,PAYTM,True,Layer-1 Smurf,1
+USR_0090,Ishaan Iyer,ishaan.iyer84@paytm,IN6679017210,PAYTM,False,None,-1
+USR_0091,Tanvi Mehta,tanvi.mehta37@pnb,IN7490442894,PNB,True,Layer-2 Aggregator,1
+USR_0092,Deepak Nair,deepak.nair94@hdfc,IN5659161352,HDFC,False,None,-1
+USR_0093,Pooja Rao,pooja.rao89@pnb,IN2439622619,PNB,False,None,-1
+USR_0094,Rajesh Shukla,rajesh.shukla49@pnb,IN1855256552,PNB,False,None,-1
+USR_0095,Aarav Sharma,aarav.sharma70@hdfc,IN4300636585,HDFC,True,Layer-2 Aggregator,1
+USR_0096,Tanvi Iyer,tanvi.iyer83@pnb,IN8285786023,PNB,False,None,-1
+USR_0097,Isha Iyer,isha.iyer28@hdfc,IN2825989011,HDFC,False,None,-1
+USR_0098,Aditya Nair,aditya.nair69@kotak,IN9805620900,KOTAK,True,Layer-1 Smurf,1
+USR_0099,Rahul Verma,rahul.verma27@axis,IN8737025391,AXIS,True,Layer-1 Smurf,2
+USR_0100,Suresh Joshi,suresh.joshi86@kotak,IN8995059760,KOTAK,False,None,-1
+USR_0101,Tanvi Singh,tanvi.singh41@paytm,IN6322520473,PAYTM,False,None,-1
+USR_0102,Tanvi Verma,tanvi.verma46@pnb,IN6302109556,PNB,False,None,-1
+USR_0103,Ananya Gupta,ananya.gupta20@kotak,IN1594312071,KOTAK,False,None,-1
+USR_0104,Rahul Iyer,rahul.iyer29@pnb,IN4034047118,PNB,True,Layer-1 Smurf,2
+USR_0105,Vihaan Iyer,vihaan.iyer52@axis,IN7625464411,AXIS,False,None,-1
+USR_0106,Sneha Sharma,sneha.sharma63@hdfc,IN7767538527,HDFC,False,None,-1
+USR_0107,Isha Sharma,isha.sharma48@icici,IN8531118333,ICICI,False,None,-1
+USR_0108,Sunil Iyer,sunil.iyer79@kotak,IN4856070374,KOTAK,False,None,-1
+USR_0109,Isha Shukla,isha.shukla65@icici,IN3085816511,ICICI,False,None,-1
+USR_0110,Priya Gupta,priya.gupta96@pnb,IN8722962486,PNB,False,None,-1
+USR_0111,Manish Patel,manish.patel69@paytm,IN4949401194,PAYTM,False,None,-1
+USR_0112,Kavya Joshi,kavya.joshi60@sbi,IN3847562279,SBI,False,None,-1
+USR_0113,Vihaan Rao,vihaan.rao27@axis,IN9018065507,AXIS,False,None,-1
+USR_0114,Aditya Sharma,aditya.sharma58@icici,IN2405969000,ICICI,False,None,-1
+USR_0115,Tanvi Gupta,tanvi.gupta58@icici,IN7105574449,ICICI,False,None,-1
+USR_0116,Rajesh Verma,rajesh.verma12@axis,IN9383431259,AXIS,False,None,-1
+USR_0117,Rahul Rao,rahul.rao93@sbi,IN2062073697,SBI,False,None,-1
+USR_0118,Rajesh Sharma,rajesh.sharma29@kotak,IN2024542722,KOTAK,True,Exit-Cashing Node,2
+USR_0119,Isha Rao,isha.rao82@sbi,IN5070585433,SBI,False,None,-1
+
